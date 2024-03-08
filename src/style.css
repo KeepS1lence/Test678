@@ -1,0 +1,35 @@
+body{
+  background:linear-gradient(to left,green,yellow,red);
+}
+h1{
+  text-align:center;
+  font-size:45px;
+  color:MidnightBlue;
+  font-family:GAUTAMI;
+}
+.imgUp{
+  display:flex;
+  justify-content:center;  
+}
+.textUp{
+  text-align:center;
+  font-size:25px;
+  color:MidnightBlue;
+  font-family:GAUTAMI;
+}
+.border{
+  border:3px solid violet;
+}
+.imgMiddle{
+  display:flex;
+  justify-content:flex-start;
+  padding:5px;
+}
+a{
+  text-decoration:none;
+  font-size:25px;
+  background-color:violet;
+  border:2px solid red;
+  color:MidnightBlue;
+  border-radius:10px;
+}
